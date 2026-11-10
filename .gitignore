@@ -1,0 +1,9 @@
+.env
+data/
+scraped/
+__pycache__/
+.venv/
+*.log
+node_modules/
+.next/
+.claude/
